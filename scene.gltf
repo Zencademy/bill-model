@@ -231,12 +231,12 @@
       "componentType": 5126,
       "count": 6402,
       "max": [
-        1.1265029907226563,
+        1.1265029907226562,
         4.828766345977783,
-        1.1265029907226563
+        1.1265029907226562
       ],
       "min": [
-        -1.1265029907226563,
+        -1.1265029907226562,
         -4.828766345977783,
         -1.1265028715133667
       ],
@@ -287,12 +287,12 @@
       "componentType": 5126,
       "count": 6402,
       "max": [
-        1.1265029907226563,
+        1.1265029907226562,
         4.828766345977783,
-        1.1265029907226563
+        1.1265029907226562
       ],
       "min": [
-        -1.1265029907226563,
+        -1.1265029907226562,
         -4.828766345977783,
         -1.1265028715133667
       ],
@@ -343,12 +343,12 @@
       "componentType": 5126,
       "count": 6402,
       "max": [
-        1.1265029907226563,
+        1.1265029907226562,
         4.828766345977783,
-        1.1265029907226563
+        1.1265029907226562
       ],
       "min": [
-        -1.1265029907226563,
+        -1.1265029907226562,
         -4.828766345977783,
         -1.1265028715133667
       ],
@@ -399,12 +399,12 @@
       "componentType": 5126,
       "count": 6402,
       "max": [
-        1.1265029907226563,
+        1.1265029907226562,
         4.828766345977783,
-        1.1265029907226563
+        1.1265029907226562
       ],
       "min": [
-        -1.1265029907226563,
+        -1.1265029907226562,
         -4.828766345977783,
         -1.1265028715133667
       ],
@@ -455,12 +455,12 @@
       "componentType": 5126,
       "count": 6402,
       "max": [
-        1.1265029907226563,
+        1.1265029907226562,
         4.828766345977783,
-        1.1265029907226563
+        1.1265029907226562
       ],
       "min": [
-        -1.1265029907226563,
+        -1.1265029907226562,
         -4.828766345977783,
         -1.1265028715133667
       ],
@@ -511,12 +511,12 @@
       "componentType": 5126,
       "count": 6402,
       "max": [
-        1.1265029907226563,
+        1.1265029907226562,
         4.828766345977783,
-        1.1265029907226563
+        1.1265029907226562
       ],
       "min": [
-        -1.1265029907226563,
+        -1.1265029907226562,
         -4.828766345977783,
         -1.1265028715133667
       ],
@@ -1222,12 +1222,8 @@
       "uri": "scene.bin"
     }
   ],
-  "extensionsRequired": [
-    "KHR_materials_pbrSpecularGlossiness"
-  ],
-  "extensionsUsed": [
-    "KHR_materials_pbrSpecularGlossiness"
-  ],
+  "extensionsRequired": [],
+  "extensionsUsed": [],
   "images": [
     {
       "uri": "textures/material_diffuse.png"
@@ -1263,322 +1259,62 @@
   "materials": [
     {
       "doubleSided": true,
-      "extensions": {
-        "KHR_materials_pbrSpecularGlossiness": {
-          "diffuseFactor": [
-            1.0,
-            1.0,
-            1.0,
-            1.0
-          ],
-          "diffuseTexture": {
-            "index": 0
-          },
-          "glossinessFactor": 1.0,
-          "specularFactor": [
-            1.0,
-            1.0,
-            1.0
-          ],
-          "specularGlossinessTexture": {
-            "index": 1
-          }
-        }
-      },
+      "extensions": {},
       "name": "material"
     },
     {
       "doubleSided": true,
-      "extensions": {
-        "KHR_materials_pbrSpecularGlossiness": {
-          "diffuseFactor": [
-            1.0,
-            1.0,
-            1.0,
-            1.0
-          ],
-          "diffuseTexture": {
-            "index": 2
-          },
-          "glossinessFactor": 1.0,
-          "specularFactor": [
-            1.0,
-            1.0,
-            1.0
-          ],
-          "specularGlossinessTexture": {
-            "index": 3
-          }
-        }
-      },
+      "extensions": {},
       "name": "material_1"
     },
     {
       "doubleSided": true,
-      "extensions": {
-        "KHR_materials_pbrSpecularGlossiness": {
-          "diffuseFactor": [
-            1.0,
-            1.0,
-            1.0,
-            1.0
-          ],
-          "diffuseTexture": {
-            "index": 4
-          },
-          "glossinessFactor": 1.0,
-          "specularFactor": [
-            1.0,
-            1.0,
-            1.0
-          ],
-          "specularGlossinessTexture": {
-            "index": 5,
-            "texCoord": 1
-          }
-        }
-      },
+      "extensions": {},
       "name": "material_2"
     },
     {
       "doubleSided": true,
-      "extensions": {
-        "KHR_materials_pbrSpecularGlossiness": {
-          "diffuseFactor": [
-            1.0,
-            1.0,
-            1.0,
-            1.0
-          ],
-          "diffuseTexture": {
-            "index": 4
-          },
-          "glossinessFactor": 1.0,
-          "specularFactor": [
-            1.0,
-            1.0,
-            1.0
-          ],
-          "specularGlossinessTexture": {
-            "index": 5,
-            "texCoord": 1
-          }
-        }
-      },
+      "extensions": {},
       "name": "material_3"
     },
     {
       "doubleSided": true,
-      "extensions": {
-        "KHR_materials_pbrSpecularGlossiness": {
-          "diffuseFactor": [
-            1.0,
-            1.0,
-            1.0,
-            1.0
-          ],
-          "diffuseTexture": {
-            "index": 4
-          },
-          "glossinessFactor": 1.0,
-          "specularFactor": [
-            1.0,
-            1.0,
-            1.0
-          ],
-          "specularGlossinessTexture": {
-            "index": 5,
-            "texCoord": 1
-          }
-        }
-      },
+      "extensions": {},
       "name": "material_4"
     },
     {
       "doubleSided": true,
-      "extensions": {
-        "KHR_materials_pbrSpecularGlossiness": {
-          "diffuseFactor": [
-            1.0,
-            1.0,
-            1.0,
-            1.0
-          ],
-          "diffuseTexture": {
-            "index": 4
-          },
-          "glossinessFactor": 1.0,
-          "specularFactor": [
-            1.0,
-            1.0,
-            1.0
-          ],
-          "specularGlossinessTexture": {
-            "index": 5,
-            "texCoord": 1
-          }
-        }
-      },
+      "extensions": {},
       "name": "material_5"
     },
     {
       "doubleSided": true,
-      "extensions": {
-        "KHR_materials_pbrSpecularGlossiness": {
-          "diffuseFactor": [
-            1.0,
-            1.0,
-            1.0,
-            1.0
-          ],
-          "diffuseTexture": {
-            "index": 6
-          },
-          "glossinessFactor": 1.0,
-          "specularFactor": [
-            1.0,
-            1.0,
-            1.0
-          ],
-          "specularGlossinessTexture": {
-            "index": 7
-          }
-        }
-      },
+      "extensions": {},
       "name": "material_6"
     },
     {
       "doubleSided": true,
-      "extensions": {
-        "KHR_materials_pbrSpecularGlossiness": {
-          "diffuseFactor": [
-            1.0,
-            1.0,
-            1.0,
-            1.0
-          ],
-          "diffuseTexture": {
-            "index": 8
-          },
-          "glossinessFactor": 1.0,
-          "specularFactor": [
-            1.0,
-            1.0,
-            1.0
-          ],
-          "specularGlossinessTexture": {
-            "index": 9
-          }
-        }
-      },
+      "extensions": {},
       "name": "material_7"
     },
     {
       "doubleSided": true,
-      "extensions": {
-        "KHR_materials_pbrSpecularGlossiness": {
-          "diffuseFactor": [
-            1.0,
-            1.0,
-            1.0,
-            1.0
-          ],
-          "diffuseTexture": {
-            "index": 4
-          },
-          "glossinessFactor": 1.0,
-          "specularFactor": [
-            1.0,
-            1.0,
-            1.0
-          ],
-          "specularGlossinessTexture": {
-            "index": 5,
-            "texCoord": 1
-          }
-        }
-      },
+      "extensions": {},
       "name": "material_8"
     },
     {
       "doubleSided": true,
-      "extensions": {
-        "KHR_materials_pbrSpecularGlossiness": {
-          "diffuseFactor": [
-            1.0,
-            1.0,
-            1.0,
-            1.0
-          ],
-          "diffuseTexture": {
-            "index": 4
-          },
-          "glossinessFactor": 1.0,
-          "specularFactor": [
-            1.0,
-            1.0,
-            1.0
-          ],
-          "specularGlossinessTexture": {
-            "index": 5,
-            "texCoord": 1
-          }
-        }
-      },
+      "extensions": {},
       "name": "material_9"
     },
     {
       "doubleSided": true,
-      "extensions": {
-        "KHR_materials_pbrSpecularGlossiness": {
-          "diffuseFactor": [
-            1.0,
-            1.0,
-            1.0,
-            1.0
-          ],
-          "diffuseTexture": {
-            "index": 4
-          },
-          "glossinessFactor": 1.0,
-          "specularFactor": [
-            1.0,
-            1.0,
-            1.0
-          ],
-          "specularGlossinessTexture": {
-            "index": 5,
-            "texCoord": 1
-          }
-        }
-      },
+      "extensions": {},
       "name": "material_10"
     },
     {
       "doubleSided": true,
-      "extensions": {
-        "KHR_materials_pbrSpecularGlossiness": {
-          "diffuseFactor": [
-            1.0,
-            1.0,
-            1.0,
-            1.0
-          ],
-          "diffuseTexture": {
-            "index": 4
-          },
-          "glossinessFactor": 1.0,
-          "specularFactor": [
-            1.0,
-            1.0,
-            1.0
-          ],
-          "specularGlossinessTexture": {
-            "index": 5,
-            "texCoord": 1
-          }
-        }
-      },
+      "extensions": {},
       "name": "material_11"
     }
   ],
